@@ -1,0 +1,3 @@
+[submodule "vendor/submodules/ledger"]
+	path = vendor/submodules/ledger
+	url = git@github.com:ledger/ledger.git
